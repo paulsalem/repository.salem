@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.salem"
+        name="Salem's repository"
+        version="1.0.0"
+        provider-name="cd Salem">
+    <extension point="xbmc.addon.repository"
+        name="Paul Salem's Add-on Repository">
+        <info>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml</info>
+        <checksum>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+        <datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Salem's Add-ons for XBMC</summary>
+        <description>Host for the reFocus BIG skin.</description>
+        <disclaimer>-</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>t 
